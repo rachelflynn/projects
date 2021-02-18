@@ -1,13 +1,16 @@
 ---
 title:  New Hire Article
 author: Rachel Flynn
-image: img/Screen Shot 2021-02-18 at 3.13.07 PM.png
 date: 2018-06-21   
+excerpt_separator: <!--more-->
 ---
 
-
+<p align="center">
+  <img src="img/Screen Shot 2021-02-18 at 3.13.07 PM.png" alt="Article" width="500"/>
+</p>
+<!--more-->
 My supervisor at the Write Place approached me and asked if I would write my new hire article for the company website. I temporarily worked with the company remotely as a Content Writer and Proofreader during the summer of 2018. 
   
 <br>
 
-You can <a href="documentsfolder1/The Write Place Article.pdf" target="_blank">view the article</a> or see the published version on the company [website](https://thewriteplace.biz/the-write-place-flynn/)
+You can <a href="documentsfolder1/The Write Place Article.pdf" target="_blank">view the article</a> or see the published version on the company [website.](https://thewriteplace.biz/the-write-place-flynn/)
