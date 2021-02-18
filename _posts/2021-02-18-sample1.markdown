@@ -11,4 +11,4 @@ I temporarily worked with the company remotely as a Content Writer and Proofread
   
 <br>
 
-You can <a href="documentsfolder1/The Write Place Article.pdf" target="_blank">view the article</a> or see the published version on the company *[website.](https://thewriteplace.biz/the-write-place-flynn/)*
+You can *<a href="documentsfolder1/The Write Place Article.pdf" target="_blank">open the article</a>* or see the published version on the company *[website.](https://thewriteplace.biz/the-write-place-flynn/)*
