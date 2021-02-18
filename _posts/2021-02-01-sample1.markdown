@@ -1,6 +1,7 @@
-# Product Spotlight
-
-<img src="img/Screen Shot 2021-02-18 at 6.10.35 PM.png " alt="Product Spotlight" width="200"/>
+---
+title: Product Spotlight
+image: img/Screen Shot 2021-02-18 at 6.10.35 PM.png 
+---
 
 I wrote this article for one of our clients at the Write Place, and it was published on the company's website. I temporarily worked with the company remotely as a Content Writer and Proofreader during the summer of 2018. You can *<a href="documentsfolder1/PEC Article.pdf" target="_blank">view the article</a>* or see the published version on the company 
 *<a href="https://pellaengraving.com/pec-makes-waves-with-new-donor-wall-at-cambridge-sportsplex/" target="_blank">website.</a>*
