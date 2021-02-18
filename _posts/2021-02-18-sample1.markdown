@@ -1,10 +1,12 @@
 ---
-title:  Short article written for a client at the Write Place
+title:  New Hire Article
 author: Rachel Flynn
-avatar: "img/authors/wferr.png"
 image: 
-date: 2018-07-01   
+date: 2018-06-21   
 ---
 
 
-<a href="documentsfolder1/The Write Place Article.pdf">Rachel Flynn</a>
+<p>
+  I wrote this article for The Write Place website when I joined the company for the summer of 2018. You can also view it on their website [here.](https://thewriteplace.biz/the-write-place-flynn/)
+</p>
+<a href="documentsfolder1/The Write Place Article.pdf">View article</a>
