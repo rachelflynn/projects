@@ -3,5 +3,5 @@ title:  Short article written for a client at the Write Place
 author: Rachel Flynn
 avatar: "img/authors/wferr.png"
 image: 
-date: 2018   
+date: 2018-07-01   
 ---
