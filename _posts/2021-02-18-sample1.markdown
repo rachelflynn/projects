@@ -5,3 +5,6 @@ avatar: "img/authors/wferr.png"
 image: 
 date: 2018-07-01   
 ---
+
+
+<a href="documentsfolder1/The Write Place Article.pdf">Rachel Flynn</a>
