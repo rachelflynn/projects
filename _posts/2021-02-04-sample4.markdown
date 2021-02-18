@@ -3,12 +3,4 @@ title:  New Hire Article
 image: img/Screen Shot 2021-02-18 at 3.13.07 PM.png
 ---
 
-My supervisor at the Write Place approached me and asked if I would write my new hire article for the company website. 
-
-<br>
-
-I temporarily worked with the company remotely as a Content Writer and Proofreader during the summer of 2018. 
-  
-<br>
-
-You can *<a href="documentsfolder1/The Write Place Article.pdf" target="_blank">open the article</a>* or see the published version on the company *[website.](https://thewriteplace.biz/the-write-place-flynn/)*
+My supervisor at the Write Place approached me and asked if I would write my new hire article for the company website. I temporarily worked with the company remotely as a Content Writer and Proofreader during the summer of 2018. You can *<a href="documentsfolder1/The Write Place Article.pdf" target="_blank">open the article</a>* or see the published version on the company *<a href="https://thewriteplace.biz/the-write-place-flynn/" target="_blank">website.</a>* 
