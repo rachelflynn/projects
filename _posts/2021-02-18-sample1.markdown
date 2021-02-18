@@ -1,7 +1,7 @@
 ---
 title:  New Hire Article
 author: Rachel Flynn
-image: 
+image: img/Screen Shot 2021-02-18 at 3.13.07 PM.png
 date: 2018-06-21   
 ---
 
