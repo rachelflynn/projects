@@ -1,5 +1,6 @@
 ---
 title: Product Spotlight
+hidetitle: true
 image: img/Screen Shot 2021-02-18 at 6.10.35 PM.png
 ---
 
