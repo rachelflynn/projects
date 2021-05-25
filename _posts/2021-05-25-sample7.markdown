@@ -1,6 +1,6 @@
 ---
-title:  Immigration Inforgraphic for Social Media
-image: img/infographic.png
+title: Immigration Inforgraphic for Social Media
+image: img/Infographic.png
 ---
 
 I developed this infographic on Canva while interning at World Relief Chicago. We used it during an education campaign on social media to provide viewers with basic facts about immigrants in the Chicago area. We continuosuly updated the numbers and information on the image, so we used it in numerous social media campaigns. I worked with World Relief Chicago as a Marketing Intern from January - May 2018. You can view the infographic *<a href="documentsfolder1/Infographic.png" target="_blank">here.</a>*
