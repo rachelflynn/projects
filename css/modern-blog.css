@@ -26,6 +26,15 @@
 	overflow: hidden;
 }
 
+.card__image {
+	position: absolute;
+	top: 0;
+	left: 0;
+	display: block;
+	width: 100%;
+	height: 100%;
+}
+
 .card__container--closed .card__image {
 	position: relative;
 	cursor: pointer;
@@ -318,15 +327,5 @@ a:focus {
 	visibility: hidden;
 	opacity: 0;
 }
-
-.pattern--hidden .polygon {
-	transition-duration: 0ms;
-}
-
-.pattern svg {
-	width: 100%;
-	height: 100%;
-}
-
 
 
