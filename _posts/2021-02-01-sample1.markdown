@@ -3,5 +3,5 @@ title: Product Spotlight
 image: img/Screen Shot 2021-02-18 at 6.10.35 PM.png 
 ---
 
-I served as a Content Writer and Proofreader during the summer of 2018 at the Write Place in Pella, Iowa. In this role, I managed a small portfolio of clients and wrote content for their websites and marketing collateral. I wrote this article for one of our clients, and the company published it on their corporate website. You can *<a href="documentsfolder1/PEC Article.pdf" target="_blank">view the article</a>* or see the published version on the company 
+I served as a Content Writer and Proofreader during the summer of 2018 at the Write Place in Pella, Iowa. In this role, I managed a small portfolio of clients and wrote content for their websites and marketing collateral. I wrote this article for one of our clients, and the company published it on their corporate website. You can *<a href="documentsfolder1/PEC Article.pdf" target="_blank">***view the article***</a>* or see the published version on the company 
 *<a href="https://pellaengraving.com/pec-makes-waves-with-new-donor-wall-at-cambridge-sportsplex/" target="_blank">***website.***</a>*
