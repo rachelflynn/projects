@@ -1,4 +1,3 @@
-
 /*CARD */
 
 .card {
@@ -337,4 +336,23 @@ a:focus {
 	height: 100%;
 }
 
+.polygon {
+	transition: -webkit-transform 300ms ease-in-out, opacity 300ms ease-in-out;
+	transition: transform 300ms ease-in-out, opacity 300ms ease-in-out;
+	-webkit-transform: scale(1);
+	transform: scale(1);
+	-webkit-transform-origin: center bottom;
+	transform-origin: center bottom;
+}
 
+.polygon--hidden {
+	opacity: 0;
+	-webkit-transform: scale(0);
+	transform: scale(0);
+}
+/* disable scale on firefox */
+
+.ff .polygon {
+	-webkit-transform: scale(1)!important;
+	transform: scale(1)!important;
+}
