@@ -1,6 +1,6 @@
 ---
 title: *A Digital Nomad Guide to Cape Town*
-image: img/Screen Shot 2021-06-21 at 4.37.49 PM.png
+image: ![Screen Shot 2021-06-21 at 4 37 49 PM](https://user-images.githubusercontent.com/71097494/122835274-a8552d00-d2b5-11eb-8e64-d104e7ade4cf.png)
 ---
 
 I co-authored this article that provides extensive insight into working remotely in Cape Town, South Africa. I wrote half of the <a href="https://www.worldfootprints.com/shaping-the-rainbow-nation-the-role-of-indians-in-south-africa/" target="_blank">***article***</a> for *Digital Nomad World*, and it was published on June 1st, 2021. 
