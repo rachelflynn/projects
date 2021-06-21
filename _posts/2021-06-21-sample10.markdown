@@ -1,5 +1,5 @@
 ---
-title: *A Digital Nomad Guide to Cape Town*
+title: A Digital Nomad Guide to Cape Town
 image: img/Digital Nomad World.png
 ---
 
