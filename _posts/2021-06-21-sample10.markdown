@@ -1,6 +1,6 @@
 ---
 title: A Digital Nomad Guide to Cape Town
-image: img/Digital Nomad World.png
+image: img/DigitalNomadWorld.png
 ---
 
 I co-authored this article that provides extensive insight into working remotely in Cape Town, South Africa. I wrote half of the <a href="https://digitalnomads.world/city-guide/cape-town/" target="_blank">***article***</a> for *Digital Nomad World*, and it was published on June 1st, 2021. 
