@@ -1,0 +1,6 @@
+---
+title: DITA Technical Document Sample
+image: documentsfolder1/Screen Shot 2022-03-23 at 6.19.58 PM.png
+---
+
+I created this procedure using the Oxygen XML Editor as part of my Technical Writing: How to Write Software Documentation Certification course. You can view the whole document *<a href="documentsfolder1/Working with the Calculator Tool.pdf" target="_blank">**here.**</a>* 
