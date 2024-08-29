@@ -1,0 +1,6 @@
+---
+title: monday.com API documentation
+image: documentsfolder1/monday.com api docs.png
+---
+
+As the only technical writer at monday.com, I was responsible for maintaining the entire GraphQL API documentation library of more than 80 documents. You can view the entire library *<a href="https://developer.monday.com/api-reference/docs/basics" target="_blank">**here.**</a>*  
