@@ -1,0 +1,6 @@
+---
+title: monday.com apps framework and marketplace documentation
+image: documentsfolder1/monday.com apps docs.png
+---
+
+As the only technical writer at monday.com, I was responsible for maintaining the entire apps framework and marketplace documentation library of more than 90 documents. You can view the entire library *<a href="https://developer.monday.com/apps/docs/intro" target="_blank">**here.**</a>*  
